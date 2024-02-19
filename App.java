@@ -12,12 +12,12 @@ public class App {
 
         
         Student myStudent2 = new Student();
-        myStudent.firstName = "Pam";
-        myStudent.lastName = "Beasley";
-        myStudent.major = "Art";
-        myStudent.gpa = 2.5;
-        myStudent.age = 23;
-        myStudent.onProbation = true;
+        myStudent2.firstName = "Pam";
+        myStudent2.lastName = "Beasley";
+        myStudent2.major = "Art";
+        myStudent2.gpa = 2.5;
+        myStudent2.age = 23;
+        myStudent2.onProbation = true;
 
         System.out.println();
      }
